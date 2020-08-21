@@ -1,18 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
 body {
-  font-family: 'Gamja Flower', cursive;
+  /* font-family: 'Gamja Flower', cursive; */
+  /* font-family: 'Do Hyeon', sans-serif; */
+  font-family: 'Nanum Gothic', sans-serif;
 }
 
 h1 {
-  font-size: 68px;
+  font-size: 58px;
   /* margin-left: 48px; */
   text-align: center;
 }
 h2 {
-  font-size: 48px;
+  font-size: 38px;
 }
 ol{
-  font-size: 48px;
+  font-size: 38px;
   display: table;
   margin-left: auto;
   margin-right: auto;
