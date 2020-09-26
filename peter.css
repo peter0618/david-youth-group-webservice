@@ -1,61 +1,6 @@
-h1 {
-  font-size: 68px;
-  /* margin-left: 48px; */
-  text-align: center;
-}
-h2 {
-  font-size: 48px;
-}
-ol{
-  font-size: 48px;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-.wrapper {
-  display: flex;
-}
+@import url("worship-common.css");
 
-.wrapper > .title {
-  flex: 10;
-}
-.wrapper > .nav {
-  flex: 2;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.wrapper > .nav > h2{
-  color:blue;
-}
-.nav.left{
-  margin-left: 30px;
-}
 .nav.right{
   margin-right: 30px;
   visibility: hidden;
-}
-
-.container{
-  display: flex;
-}
-
-.container > .menu {
-  flex: 2;
-}
-
-.container > .main {
-  flex: 10;
-}
-
-.menu > ul li {
-  font-size: 38px;
-  list-style: none;
-  margin-top: 40px;
-}
-
-.menu > ul {
-  margin-top: 200px;
 }
